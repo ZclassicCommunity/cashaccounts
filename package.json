@@ -11,11 +11,12 @@
   "dependencies": {
     "axios": "^0.19.0",
     "base58check": "^2.0.0",
-    "bchaddrjs-slp": "https://github.com/simpleledger/bchaddrjs.git",
+    "bitcore-lib-cash": "ZSLP/bitcore-lib-zcash",
+    "bchaddrjs-slp": "ZSLP/bchaddrjs",
+    "bitbox-sdk": "ZSLP/bitbox-sdk#v8.7.0",
     "bitcoin-cash-rpc": "^0.4.2",
-    "bitcoincashjs-lib": "https://github.com/Bitcoin-com/bitcoincashjs-lib.git",
-    "bitcore-lib-cash": "https://github.com/paOol/bitcore-lib-cash.git",
-    "cashaddrjs": "^0.3.3"
+    "bitcoincashjs-lib": "ZSLP/bitgo-utxo-lib",
+    "cashaddrjs": "ZSLP/cashaddrjs"
   },
   "keywords": [
     "bitcoin",
