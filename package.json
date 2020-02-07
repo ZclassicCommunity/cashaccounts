@@ -11,12 +11,12 @@
   "dependencies": {
     "axios": "^0.19.0",
     "base58check": "^2.0.0",
-    "bitcore-lib-cash": "ZSLP/bitcore-lib-zcash",
-    "bchaddrjs-slp": "ZSLP/bchaddrjs",
-    "bitbox-sdk": "ZSLP/bitbox-sdk#v8.7.0",
+    "bitcore-lib-cash": "ZSLP/bitcore-lib-zcash#38c113838a28230b3d6cee76568f53173709774a",
+    "bchaddrjs-slp": "ZSLP/bchaddrjs#a297a3189ca42bc00a6bcea6b79015997a5024c9",
+    "bitbox-sdk": "ZSLP/bitbox-sdk#731825c830aab1006b482efa6ead63c12c98eafa",
     "bitcoin-cash-rpc": "^0.4.2",
-    "bitcoincashjs-lib": "ZSLP/bitgo-utxo-lib",
-    "cashaddrjs": "ZSLP/cashaddrjs"
+    "bitcoincashjs-lib": "ZSLP/bitgo-utxo-lib#970727c95fa8427d6f6defc5df7472851ceb031f",
+    "cashaddrjs": "ZSLP/cashaddrjs#dd821b23708fde87b986b3d6ee882d40ea08cdd4"
   },
   "keywords": [
     "bitcoin",
