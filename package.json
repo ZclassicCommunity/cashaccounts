@@ -13,7 +13,7 @@
     "base58check": "^2.0.0",
     "bitcore-lib-cash": "ZSLP/bitcore-lib-zcash#38c113838a28230b3d6cee76568f53173709774a",
     "bchaddrjs-slp": "ZSLP/bchaddrjs#a297a3189ca42bc00a6bcea6b79015997a5024c9",
-    "bitbox-sdk": "ZSLP/bitbox-sdk#731825c830aab1006b482efa6ead63c12c98eafa",
+    "bitbox-sdk": "ZclassicCommunity/bitbox-sdk#0c4abf83847f56fd4ce4a4a645d53f95dc0071c0",
     "bitcoin-cash-rpc": "^0.4.2",
     "bitcoincashjs-lib": "ZclassicCommunity/bitgo-utxo-lib#5fb919db8effa706fe521f89fff13fae9f818a87",
     "cashaddrjs": "ZSLP/cashaddrjs#dd821b23708fde87b986b3d6ee882d40ea08cdd4"
